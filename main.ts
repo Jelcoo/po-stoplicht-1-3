@@ -35,6 +35,3 @@ let timerEindTijd = 0
 let radionummer = 0
 radio.setGroup(177)
 pins.digitalWritePin(DigitalPin.P0, 1)
-basic.forever(function () {
-	
-})
